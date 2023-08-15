@@ -1,0 +1,17 @@
+
+.container{
+    width: 500px;
+    height: 500px;
+    border: 10px solid black;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid black;
+
+}

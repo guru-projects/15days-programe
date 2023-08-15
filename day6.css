@@ -1,0 +1,14 @@
+body{
+    background: url(media/triangle.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    background: linear-gradient(to right,blue, green);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    border-radius: 10px;
+}
